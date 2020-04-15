@@ -1,5 +1,5 @@
 # radioamator
-Skrypt pozwala wysłać wiadomość na podany adres email, jeśli nasz znak radioamatorski zostanie zarejestrowany.
+Skrypt pozwala wysłać wiadomość na podany adres email, jeśli znak radioamatorski zostanie zarejestrowany.
 
 ## Użycie
 Skrypt jest bardzo prosty w użyciu. Elementy, które należy skonfigurować, znajdują się w górnej części skryptu. Są to:
