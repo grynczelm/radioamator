@@ -19,4 +19,4 @@ Skrypt jest bardzo prosty w użyciu. Elementy, które należy skonfigurować, zn
 #### 7. Jakie znaki mają być wyszukiwane:
 `znaki = []`
 
-Warto dodać skrypt do cron, aby uruchamiał się co jakiś czas.
+### Dodatkowo, warto dodać skrypt do cron, aby uruchamiał się co jakiś czas.
